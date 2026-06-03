@@ -18,7 +18,7 @@
 
 ## Overview
 
-- Total: **42** apps
+- Total: **29** apps
 - Source: **This Mac**
 - Style: **categorized list + local path index**
 
@@ -43,18 +43,31 @@
   - Path: `/Users/auuunya/Applications/Claude Code URL Handler.app`
 - **CotEditor**
   - Path: `/Applications/CotEditor.app`
+  - Homepage: https://coteditor.com/
+  - Homebrew Cask: https://formulae.brew.sh/cask/coteditor
 - **DBeaver**
   - Path: `/Applications/DBeaver.app`
+  - Homepage: https://dbeaver.io/
+  - Homebrew Cask: https://formulae.brew.sh/cask/dbeaver-community
 - **Ghostty**
   - Path: `/Applications/Ghostty.app`
+  - Homepage: https://ghostty.org/
+  - Homebrew Cask: https://formulae.brew.sh/cask/ghostty
 - **Hoppscotch**
   - Path: `/Applications/Hoppscotch.app`
+  - Homepage: https://hoppscotch.com/
+  - Homebrew Cask: https://formulae.brew.sh/cask/hoppscotch
 - **Metapi**
   - Path: `/Applications/Metapi.app`
 - **WindTerm**
   - Path: `/Applications/WindTerm.app`
+  - Homepage: https://github.com/kingToolbox/WindTerm
+  - GitHub: https://github.com/kingToolbox/WindTerm
+  - Homebrew Cask: https://formulae.brew.sh/cask/windterm
 - **Zed**
   - Path: `/Applications/Zed.app`
+  - Homepage: https://zed.dev/
+  - Homebrew Cask: https://formulae.brew.sh/cask/zed
 
 ## ⚡ 效率工具
 
@@ -64,8 +77,12 @@
   - Path: `/Applications/BuhoLaunchpad.app`
 - **LocalSend**
   - Path: `/Applications/LocalSend.app`
+  - Homepage: https://localsend.org/
+  - Homebrew Cask: https://formulae.brew.sh/cask/localsend
 - **Maccy**
   - Path: `/Applications/Maccy.app`
+  - Homepage: https://maccy.app/
+  - Homebrew Cask: https://formulae.brew.sh/cask/maccy
 - **PilotDeck**
   - Path: `/Applications/PilotDeck.app`
 
@@ -77,6 +94,8 @@
   - Path: `/Applications/FlClash.app`
 - **Hermes**
   - Path: `/Applications/Hermes.app`
+  - Homepage: https://hermesapp.org/
+  - Homebrew Cask: https://formulae.brew.sh/cask/hermes
 - **Shadowrocket**
   - Path: `/Applications/Shadowrocket.app`
 - **v2rayN**
@@ -88,12 +107,21 @@
 
 - **KeePassXC**
   - Path: `/Applications/KeePassXC.app`
+  - Homepage: https://keepassxc.org/
+  - Homebrew Cask: https://formulae.brew.sh/cask/keepassxc
 - **KnockKnock**
   - Path: `/Applications/KnockKnock.app`
+  - Homepage: https://objective-see.org/products/knockknock.html
+  - Homebrew Cask: https://formulae.brew.sh/cask/knockknock
 - **LuLu**
   - Path: `/Applications/LuLu.app`
+  - Homepage: https://objective-see.org/products/lulu.html
+  - Homebrew Cask: https://formulae.brew.sh/cask/lulu
 - **Thaw**
   - Path: `/Applications/Thaw.app`
+  - Homepage: https://github.com/stonerl/Thaw/
+  - GitHub: https://github.com/stonerl/Thaw
+  - Homebrew Cask: https://formulae.brew.sh/cask/thaw
 
 ## 🎬 媒体
 
@@ -103,8 +131,12 @@
   - Path: `/Applications/Battery Toolkit.app`
 - **IINA**
   - Path: `/Applications/IINA.app`
+  - Homepage: https://iina.io/
+  - Homebrew Cask: https://formulae.brew.sh/cask/iina
 - **SoundSource**
   - Path: `/Applications/SoundSource.app`
+  - Homepage: https://rogueamoeba.com/soundsource/
+  - Homebrew Cask: https://formulae.brew.sh/cask/soundsource
 
 ## 🤖 AI工具
 
@@ -112,6 +144,8 @@
 
 - **Jan**
   - Path: `/Applications/Jan.app`
+  - Homepage: https://jan.ai/
+  - Homebrew Cask: https://formulae.brew.sh/cask/jan
 
 ## 🧭 浏览器
 
@@ -119,6 +153,8 @@
 
 - **Google Chrome**
   - Path: `/Applications/Google Chrome.app`
+  - Homepage: https://www.google.com/chrome/
+  - Homebrew Cask: https://formulae.brew.sh/cask/google-chrome
 
 ## 📸 截图
 
@@ -128,6 +164,8 @@
   - Path: `/Applications/MoePeek.app`
 - **Snipaste**
   - Path: `/Applications/Snipaste.app`
+  - Homepage: https://www.snipaste.com/
+  - Homebrew Cask: https://formulae.brew.sh/cask/snipaste
 
 ## 📱 移动协同
 
