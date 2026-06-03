@@ -1,95 +1,156 @@
+<div align="center">
+
 # My Mac Apps
 
-> 本机已安装 App 扫描结果，按 AppsForMac/macOS 格式整理
-> 扫描日期：2026-06-03
-> 共 42 个第三方 App（已过滤系统默认）
+> What I installed and currently keep on this Mac.
+>
+> 参考风格：AppsForMac / My macOS；内容基于本机实际扫描结果整理。
 
-## 扫描来源
+</div>
 
-- `/Applications/` — 系统全局应用目录
-- `~/Applications/` — 用户个人应用目录
-- `/System/Applications/` — 系统自带 App，未纳入本清单
-- 同名去重，保留首个发现
+## Explanation
 
-## 分类索引
+- 仅收录本机已安装的第三方 App；**不含系统自带 App**。
+- 扫描目录：`/Applications/`、`~/Applications/`。
+- 同名 App 已去重，默认保留首次发现路径。
+- 分类为当前自动整理结果，后续可继续人工微调。
+- 路径保留，便于回查、迁移或重装。
 
-### 开发工具（8）
+## Overview
 
-### 效率工具（4）
+- Total: **42** apps
+- Source: **This Mac**
+- Style: **categorized list + local path index**
 
-### 网络工具（4）
+## Categories
 
-### 安全（4）
+- 🛠️ [开发工具](#开发) (8)
+- ⚡ [效率工具](#效率) (4)
+- 🌐 [网络工具](#网络) (4)
+- 🔐 [安全](#安全) (4)
+- 🎬 [媒体](#媒体) (3)
+- 🤖 [AI工具](#ai) (1)
+- 🧭 [浏览器](#浏览器) (1)
+- 📸 [截图](#截图) (2)
+- 📱 [移动协同](#移动协同) (1)
+- 📦 [其他](#其他) (1)
 
-### 沟通（4）
+## 🛠️ 开发工具
 
-### 办公（4）
+开发、调试、终端、容器与接口相关工具。
 
-### 远程/运维（3）
+- **Claude Code URL Handler**
+  - Path: `/Users/auuunya/Applications/Claude Code URL Handler.app`
+- **CotEditor**
+  - Path: `/Applications/CotEditor.app`
+- **DBeaver**
+  - Path: `/Applications/DBeaver.app`
+- **Ghostty**
+  - Path: `/Applications/Ghostty.app`
+- **Hoppscotch**
+  - Path: `/Applications/Hoppscotch.app`
+- **Metapi**
+  - Path: `/Applications/Metapi.app`
+- **WindTerm**
+  - Path: `/Applications/WindTerm.app`
+- **Zed**
+  - Path: `/Applications/Zed.app`
 
-### 媒体（3）
+## ⚡ 效率工具
 
-### 文件管理（2）
+知识管理、文档处理、启动器与日常效率工具。
 
-### 截图（2）
+- **BuhoLaunchpad**
+  - Path: `/Applications/BuhoLaunchpad.app`
+- **LocalSend**
+  - Path: `/Applications/LocalSend.app`
+- **Maccy**
+  - Path: `/Applications/Maccy.app`
+- **PilotDeck**
+  - Path: `/Applications/PilotDeck.app`
 
-### 移动协同（1）
+## 🌐 网络工具
 
-### 浏览器（1）
+代理、远程连接、抓包与网络协作工具。
 
-### AI工具（1）
+- **FlClash**
+  - Path: `/Applications/FlClash.app`
+- **Hermes**
+  - Path: `/Applications/Hermes.app`
+- **Shadowrocket**
+  - Path: `/Applications/Shadowrocket.app`
+- **v2rayN**
+  - Path: `/Applications/v2rayN.app`
 
-### 其他（1）
+## 🔐 安全
 
-## 全部 App 列表
+安全分析、加固、认证与防护相关工具。
 
-| # | App | 分类 | 路径 |
-|---|-----|------|------|
-| 1 | CotEditor | 开发工具 | `/Applications/CotEditor.app` |
-| 2 | DBeaver | 开发工具 | `/Applications/DBeaver.app` |
-| 3 | Ghostty | 开发工具 | `/Applications/Ghostty.app` |
-| 4 | Hoppscotch | 开发工具 | `/Applications/Hoppscotch.app` |
-| 5 | Metapi | 开发工具 | `/Applications/Metapi.app` |
-| 6 | WindTerm | 开发工具 | `/Applications/WindTerm.app` |
-| 7 | Zed | 开发工具 | `/Applications/Zed.app` |
-| 8 | Claude Code URL Handler | 开发工具 | `/Users/auuunya/Applications/Claude Code URL Handler.app` |
-| 9 | BuhoLaunchpad | 效率工具 | `/Applications/BuhoLaunchpad.app` |
-| 10 | LocalSend | 效率工具 | `/Applications/LocalSend.app` |
-| 11 | Maccy | 效率工具 | `/Applications/Maccy.app` |
-| 12 | PilotDeck | 效率工具 | `/Applications/PilotDeck.app` |
-| 13 | FlClash | 网络工具 | `/Applications/FlClash.app` |
-| 14 | Hermes | 网络工具 | `/Applications/Hermes.app` |
-| 15 | Shadowrocket | 网络工具 | `/Applications/Shadowrocket.app` |
-| 16 | v2rayN | 网络工具 | `/Applications/v2rayN.app` |
-| 17 | KeePassXC | 安全 | `/Applications/KeePassXC.app` |
-| 18 | KnockKnock | 安全 | `/Applications/KnockKnock.app` |
-| 19 | LuLu | 安全 | `/Applications/LuLu.app` |
-| 20 | Thaw | 安全 | `/Applications/Thaw.app` |
-| 21 | Lark | 沟通 | `/Applications/Lark.app` |
-| 22 | QQ | 沟通 | `/Applications/QQ.app` |
-| 23 | TencentMeeting | 沟通 | `/Applications/TencentMeeting.app` |
-| 24 | WeChat | 沟通 | `/Applications/WeChat.app` |
-| 25 | Microsoft Excel | 办公 | `/Applications/Microsoft Excel.app` |
-| 26 | Microsoft OneNote | 办公 | `/Applications/Microsoft OneNote.app` |
-| 27 | Microsoft PowerPoint | 办公 | `/Applications/Microsoft PowerPoint.app` |
-| 28 | Microsoft Word | 办公 | `/Applications/Microsoft Word.app` |
-| 29 | AnyDesk | 远程/运维 | `/Applications/AnyDesk.app` |
-| 30 | TaskExplorer | 远程/运维 | `/Applications/TaskExplorer.app` |
-| 31 | VNC Viewer | 远程/运维 | `/Applications/VNC Viewer.app` |
-| 32 | Battery Toolkit | 媒体 | `/Applications/Battery Toolkit.app` |
-| 33 | IINA | 媒体 | `/Applications/IINA.app` |
-| 34 | SoundSource | 媒体 | `/Applications/SoundSource.app` |
-| 35 | Keka | 文件管理 | `/Applications/Keka.app` |
-| 36 | SFM | 文件管理 | `/Applications/SFM.app` |
-| 37 | MoePeek | 截图 | `/Applications/MoePeek.app` |
-| 38 | Snipaste | 截图 | `/Applications/Snipaste.app` |
-| 39 | AndroMeld | 移动协同 | `/Applications/AndroMeld.app` |
-| 40 | Google Chrome | 浏览器 | `/Applications/Google Chrome.app` |
-| 41 | Jan | AI工具 | `/Applications/Jan.app` |
-| 42 | WiseMapping | 其他 | `/Applications/WiseMapping.app` |
+- **KeePassXC**
+  - Path: `/Applications/KeePassXC.app`
+- **KnockKnock**
+  - Path: `/Applications/KnockKnock.app`
+- **LuLu**
+  - Path: `/Applications/LuLu.app`
+- **Thaw**
+  - Path: `/Applications/Thaw.app`
 
-## 说明
+## 🎬 媒体
 
-- 分类为自动标注，可按实际使用习惯手动调整
-- 每个 App 可单独补充：用途、获取方式、是否常用、替代默认、备注
-- 如需进一步展开某个 App 的详细说明，可创建独立页面
+音视频播放、剪辑、录制与内容处理工具。
+
+- **Battery Toolkit**
+  - Path: `/Applications/Battery Toolkit.app`
+- **IINA**
+  - Path: `/Applications/IINA.app`
+- **SoundSource**
+  - Path: `/Applications/SoundSource.app`
+
+## 🤖 AI工具
+
+本地或桌面端 AI 助手与模型交互工具。
+
+- **Jan**
+  - Path: `/Applications/Jan.app`
+
+## 🧭 浏览器
+
+日常主力或专项用途浏览器。
+
+- **Google Chrome**
+  - Path: `/Applications/Google Chrome.app`
+
+## 📸 截图
+
+截图、标注与快速分享工具。
+
+- **MoePeek**
+  - Path: `/Applications/MoePeek.app`
+- **Snipaste**
+  - Path: `/Applications/Snipaste.app`
+
+## 📱 移动协同
+
+与 Android / iPhone / 设备联动相关工具。
+
+- **AndroMeld**
+  - Path: `/Applications/AndroMeld.app`
+
+## 📦 其他
+
+暂不适合归入以上类别的应用。
+
+- **WiseMapping**
+  - Path: `/Applications/WiseMapping.app`
+
+## Scan Sources
+
+- `/Applications/`
+- `~/Applications/`
+- `/System/Applications/`（仅用于识别系统自带 App，未纳入本清单）
+
+## Notes
+
+- 这是第一版整理，重点是先把“我这台 Mac 上实际在用什么”稳定记录下来。
+- 后续可继续为每个 App 增补：用途、官网、获取方式、是否常用、替代关系、个人评价。
+- 若需要更像 AppsForMac 的长期维护仓库，可以进一步拆成分类页或补充链接元数据。
