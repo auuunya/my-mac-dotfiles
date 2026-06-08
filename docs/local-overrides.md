@@ -37,3 +37,10 @@ cp config/.zshrc.local.example ~/.zshrc.local
 alias ll='ls -lah'
 export EDITOR=vim
 ```
+
+### `.mise.local.toml` 最小示例
+
+```toml
+[env]
+EDITOR = "vim"
+```

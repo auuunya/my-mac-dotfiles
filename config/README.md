@@ -18,6 +18,14 @@
 
 如果需要加入自己的身份信息、别名或额外环境变量，先看 [`../docs/local-overrides.md`](../docs/local-overrides.md)。
 
+## 目标路径
+
+- [`.gitconfig`](./.gitconfig) → `~/.gitconfig`
+- [`.zshrc`](./.zshrc) → `~/.zshrc`
+- [`mise.toml`](./mise.toml) → `~/.config/mise/config.toml`
+- [`ghostty/config`](./ghostty/config) → `~/.config/ghostty/config`
+- [`fastfetch/config.jsonc`](./fastfetch/config.jsonc) → `~/.config/fastfetch/config.jsonc`
+
 ## 使用
 
 ```bash
