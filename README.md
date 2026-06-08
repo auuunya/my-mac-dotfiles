@@ -1,4 +1,4 @@
-# dotfiles
+# My-Mac-Dotfiles
 
 [English](./README.en.md)
 
