@@ -1,0 +1,35 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Runtime logs
+*.log
+
+# Backup / swap files
+*.backup
+*.bak
+*~
+*.swp
+undo/
+backup/
+swap/
+
+# Local runtime overrides
+.mise.local.toml
+.env
+.env.*
+
+# Sensitive local files
+.netrc
+*.key

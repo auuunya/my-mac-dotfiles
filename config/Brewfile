@@ -1,0 +1,20 @@
+# ─── Shell ───────────────────────────────────────────────────────────
+brew "mise"                 # language version manager
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+brew "zsh-completions"
+
+# ─── CLI tools ───────────────────────────────────────────────────────
+brew "lazygit"              # git TUI
+brew "git-delta"            # git diff pager
+brew "jq"                   # JSON processor
+
+# ─── Modern CLI replacements ────────────────────────────────────────
+brew "eza"                  # modern ls (icons + git status)
+brew "bat"                  # modern cat (syntax highlight)
+brew "zoxide"               # smart cd (learns habits)
+brew "fastfetch"            # system info on shell start
+
+# ─── Casks ───────────────────────────────────────────────────────────
+cask "font-maple-mono-nf"   # Nerd Font
+cask "ghostty"              # terminal

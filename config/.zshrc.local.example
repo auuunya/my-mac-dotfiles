@@ -1,0 +1,5 @@
+# private aliases
+# alias gs='git status'
+
+# private env
+# export MY_TOKEN='replace-me'
