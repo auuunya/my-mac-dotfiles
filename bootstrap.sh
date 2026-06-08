@@ -10,10 +10,4 @@ if [[ ! -f "$INSTALL_SCRIPT" ]]; then
   exit 1
 fi
 
-if ! command -v brew >/dev/null 2>&1; then
-  echo "Homebrew is required before running bootstrap.sh." >&2
-  echo "Install brew first, then run ./bootstrap.sh again." >&2
-  exit 1
-fi
-
 bash "$INSTALL_SCRIPT"

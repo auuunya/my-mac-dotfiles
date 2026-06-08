@@ -29,8 +29,7 @@ link_file "$DOTFILES_DIR/mise.toml" "$HOME/.config/mise/config.toml"
 link_file "$DOTFILES_DIR/ghostty/config" "$HOME/.config/ghostty/config"
 link_file "$DOTFILES_DIR/fastfetch/config.jsonc" "$HOME/.config/fastfetch/config.jsonc"
 
-echo "==> Optional local files"
-echo "   cp $DOTFILES_DIR/.gitconfig.local.example ~/.gitconfig.local"
-echo "   cp $DOTFILES_DIR/.zshrc.local.example ~/.zshrc.local"
+echo "==> Local overrides"
+echo "   See docs/local-overrides.md"
 
 echo "==> Done"
