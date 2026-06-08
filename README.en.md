@@ -12,6 +12,13 @@ A collection of common configuration files and software notes.
 - [`bootstrap.sh`](./bootstrap.sh) — Bootstrap entry
 - [`scripts/check.sh`](./scripts/check.sh) — Simple check script
 
+## Quick Start
+
+1. Make sure `brew` is available
+2. Run `./bootstrap.sh`
+3. If you need your own identity info or aliases, see [`docs/local-overrides.md`](./docs/local-overrides.md)
+4. Run `./scripts/check.sh` at the end
+
 ## Usage
 
 Make sure `brew` is available first, then run:

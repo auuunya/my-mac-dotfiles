@@ -14,6 +14,10 @@
 - [`.gitconfig.local.example`](./.gitconfig.local.example) —— Git 本地覆写示例
 - [`.zshrc.local.example`](./.zshrc.local.example) —— Shell 本地覆写示例
 
+## 本地覆写
+
+如果需要加入自己的身份信息、别名或额外环境变量，先看 [`../docs/local-overrides.md`](../docs/local-overrides.md)。
+
 ## 使用
 
 ```bash
