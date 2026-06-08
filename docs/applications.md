@@ -121,6 +121,7 @@
   - GitHub：https://github.com/SagerNet/sing-box
 - **v2rayN**
   - 简介：节点管理工具，用于组织代理节点、规则与连接策略。
+  - GitHub：https://github.com/2dust/v2rayN
 
 <a id="security-tools"></a>
 
