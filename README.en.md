@@ -19,10 +19,6 @@ A collection of common configuration files and software notes.
 3. If you need your own identity info or aliases, see [`docs/local-overrides.md`](./docs/local-overrides.md)
 4. Run `./scripts/check.sh` at the end
 
-## Usage
-
-Make sure `brew` is available first, then run:
-
 ```bash
 ./bootstrap.sh
 ```

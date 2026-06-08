@@ -19,10 +19,6 @@
 3. 如需加入自己的身份信息或别名，参考 [`docs/local-overrides.md`](./docs/local-overrides.md)
 4. 最后执行 `./scripts/check.sh`
 
-## 使用
-
-先准备好 `brew`，然后执行：
-
 ```bash
 ./bootstrap.sh
 ```
