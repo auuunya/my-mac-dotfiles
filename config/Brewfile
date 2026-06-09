@@ -8,6 +8,7 @@ brew "zsh-completions"
 brew "lazygit"              # git TUI
 brew "git-delta"            # git diff pager
 brew "jq"                   # JSON processor
+brew "starship"             # cross-shell prompt
 
 # ─── Modern CLI replacements ────────────────────────────────────────
 brew "eza"                  # modern ls (icons + git status)
